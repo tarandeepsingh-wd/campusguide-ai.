@@ -1,0 +1,46 @@
+[
+  {
+    "title": "B.Tech Ordinances",
+    "filename": "iiitd-btech-ordinances-2017.pdf",
+    "url": "https://iiitd.ac.in/sites/default/files/docs/education/BTech-Ordinances.pdf",
+    "source_page": "https://www.iiitd.ac.in/academics/resources",
+    "local_path": "data\\iiitd_policies\\iiitd-btech-ordinances-2017.pdf"
+  },
+  {
+    "title": "B.Tech Regulations",
+    "filename": "iiitd-btech-regulations-2025-october.pdf",
+    "url": "https://iiitd.ac.in/sites/default/files/docs/education/2025/2025-October-UG%20Regulations.pdf",
+    "source_page": "https://www.iiitd.ac.in/academics/resources",
+    "local_path": "data\\iiitd_policies\\iiitd-btech-regulations-2025-october.pdf"
+  },
+  {
+    "title": "B.Tech CSD Specific Regulations",
+    "filename": "iiitd-btech-csd-regulations-2024-may.pdf",
+    "url": "https://iiitd.ac.in/sites/default/files/docs/education/2024/2024-May-BTech%28CSD%29-Regulations.pdf",
+    "source_page": "https://www.iiitd.ac.in/academics/resources",
+    "local_path": "data\\iiitd_policies\\iiitd-btech-csd-regulations-2024-may.pdf"
+  },
+  {
+    "title": "Penalty for Forged Documents or Misbehavior",
+    "filename": "iiitd-penalty-forged-documents-misbehavior-2025.pdf",
+    "url": "https://www.iiitd.ac.in/sites/default/files/docs/forms/2025/Penalty%20for%20Submission%20of%20any%20Forged%20Documents%20or%20Misbehaviour%20by%20students%20in%20any%20form.pdf",
+    "source_page": "https://www.iiitd.ac.in/academics/resources",
+    "local_path": "data\\iiitd_policies\\iiitd-penalty-forged-documents-misbehavior-2025.pdf"
+  },
+  {
+    "title": "Evaluation Policy",
+    "filename": "iiitd-evaluation-policy.txt",
+    "url": "https://www.iiitd.ac.in/academics/resources/evaluation",
+    "source_page": "https://www.iiitd.ac.in/academics/resources",
+    "start_marker": "Evaluation Policy",
+    "local_path": "data\\iiitd_policies\\iiitd-evaluation-policy.txt"
+  },
+  {
+    "title": "Academic Dishonesty Policy",
+    "filename": "iiitd-academic-dishonesty-policy.txt",
+    "url": "https://www.iiitd.ac.in/academics/resources/acad-dishonesty",
+    "source_page": "https://www.iiitd.ac.in/academics/resources",
+    "start_marker": "Academic Dishonesty in Courses",
+    "local_path": "data\\iiitd_policies\\iiitd-academic-dishonesty-policy.txt"
+  }
+]

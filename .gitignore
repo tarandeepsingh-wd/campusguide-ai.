@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+data/indexed/*.db
+data/indexed/*.db-journal
+data/uploads/*
+!data/uploads/.gitkeep
+data/iiitd_policies/*.pdf
+data/iiitd_policies/*.txt
+!data/iiitd_policies/manifest.json
+!data/iiitd_policies/.gitkeep
+.venv/
+.env
+ROADMAP_12_HOURS.md
